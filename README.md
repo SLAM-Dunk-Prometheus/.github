@@ -1,1 +1,1 @@
-# .github
+Promethus SLAM-Dunk team
