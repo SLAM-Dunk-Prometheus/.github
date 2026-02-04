@@ -1,1 +1,1 @@
-Prometheus SLAM-Dunk team
+![slamdunk_panel](slamdunk_panel.png)
